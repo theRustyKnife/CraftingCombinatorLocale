@@ -11,17 +11,17 @@ If you contribute to these translations, please follow these rules:
 - Would be nice but not needed to sort the lines in the order they appear in the menu
 
 #Currently translated mods#
-I'm going to keep this list updated with the mods that are already translated for easier reference.
+I'm going to keep this list updated with the mods that are already translated for easier reference.<br>
 Note that the translations listed here may not be complete.
 
 <details>
 <summary>Bio_Industries</summary>
-en
+en<br>
 cs
 </details>
 <details>
 <summary>SenpaisOverhall</summary>
-en
+en<br>
 cs
 </details>
 <details>
