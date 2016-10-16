@@ -16,15 +16,19 @@ Note that the translations listed here may not be complete.
 
 <details>
 <summary>Bio_Industries</summary>
-en<br>
-cs
+* en
+* cs
 </details>
 <details>
 <summary>SenpaisOverhall</summary>
-en<br>
-cs
+* en
+* cs
 </details>
 <details>
 <summary>Switch-Liquid-I-O</summary>
-en
+* en
+</details>
+<details>
+<sumarry>Bergius_Process</summary>
+* en
 </details>
