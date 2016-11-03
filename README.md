@@ -18,17 +18,42 @@ Note that the translations listed here may not be complete.
 <summary>Bio_Industries</summary>
 * en
 * cs
+
 </details>
 <details>
 <summary>SenpaisOverhall</summary>
 * en
 * cs
+
 </details>
 <details>
 <summary>Switch-Liquid-I-O</summary>
 * en
+
 </details>
 <details>
-<sumarry>Bergius_Process</summary>
+<summary>Bergius_Process</summary>
 * en
+
+</details>
+<details>
+<summary>boxing</summary>
+* en
+* ru
+
+</details>
+<details>
+<summary>Reactors</summary>
+* en
+
+</details>
+<details>
+<summary>KS_Power</summary>
+* en
+
+</details>
+<details>
+<summary>CharcoalBurner</summary>
+* en
+
 </details>
