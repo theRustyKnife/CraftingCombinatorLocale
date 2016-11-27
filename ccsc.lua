@@ -1,14 +1,13 @@
-DATA_PATH = "special-cases" -- path to the definition file
-DATA_PRIORITY = "low"       -- priority to use in case of mod conflicts (one of "low" (should be used for third party translation mods) or "normal" (for all other mods))
+local DATA_PATH = "special-cases" -- path to the definition file
+local DATA_PRIORITY = "low"       -- priority to use in case of mod conflicts (one of "low" (should be used for third party translation mods) or "normal" (for all other mods))
 
 if remote then -- running control
 	local INTERFACE_NAME = "crafting-combinator_init"
-
-	local function init()
-		local res = require(DATA_PATH)
-		res.priority = DATA_PRIORITY
-		return res
-	end
+	
+	local data = require(DATA_PATH)
+	data.priority = DATA_PRIORITY
+	
+	local function init() return data; end
 
 	local i = 1
 	while true do

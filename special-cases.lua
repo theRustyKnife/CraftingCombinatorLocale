@@ -1,4 +1,4 @@
-local rafting_combinator_data = crafting_combinator_data or {}
+local crafting_combinator_data = {}
 
 -- items to be used as recipes to prevent unnecessary virtual recipe creation
 -- ["recipe-name"] = "item-name",
