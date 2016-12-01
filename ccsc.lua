@@ -1,4 +1,4 @@
-local DATA_PATH = "special-cases" -- path to the definition file
+local DATA_PATH = ".special-cases" -- path to the definition file
 local DATA_PRIORITY = "low"       -- priority to use in case of mod conflicts (one of "low" (should be used for third party translation mods) or "normal" (for all other mods))
 
 if remote then -- running control
