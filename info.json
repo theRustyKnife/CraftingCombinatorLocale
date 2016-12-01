@@ -1,12 +1,12 @@
 {
 	"name": "crafting-combinator-locale",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"factorio_version": "0.14",
 	"title": "Crafting Combinator Locale",
-	"author": "LuziferSenpai (and theRustyKnife)",
+	"author": "LuziferSenpai and theRustyKnife",
 	"description": "Translations for the Crafting Combinator mod.",
 	"homepage": "https://mods.factorio.com/mods/theRustyKnife/crafting-combinator-locale",
-	"date": "03.11.2016",
+	"date": "01.12.2016",
 	"dependencies": [],
 	"contributors":[
 		"theRustyKnife"
