@@ -57,3 +57,33 @@ Note that the translations listed here may not be complete.
 * en
 
 </details>
+<details>
+<summary>bobelectronics</summary>
+* en
+
+</details>
+<details>
+<summary>bobgreenhouse</summary>
+* en
+
+</details>
+<details>
+<summary>bobmodules</summary>
+* en
+
+</details>
+<details>
+<summary>bobplates</summary>
+* en
+
+</details>
+<details>
+<summary>bobrevamp</summary>
+* en
+
+</details>
+<details>
+<summary>bobwarfare</summary>
+* en
+
+</details>

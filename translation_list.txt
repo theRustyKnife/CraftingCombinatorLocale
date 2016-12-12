@@ -24,3 +24,21 @@ KS_Power
 
 CharcoalBurner
 * en
+
+bobelectronics
+* en
+
+bobgreenhouse
+* en
+
+bobmodules
+* en
+
+bobplates
+* en
+
+bobrevamp
+* en
+
+bobwarfare
+* en
